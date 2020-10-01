@@ -1,0 +1,96 @@
+body{
+    background-color: #02a8a8;
+}
+#header
+{
+    text-align: left;
+    color:#D1F5D3;
+    background-color: #07031a;
+    height:60px;
+    padding:5px;
+    padding-left:20px;
+    border-bottom:2px solid white;
+}
+#reg-form{
+    color:white;
+    min-height: calc(100vh - 60px - 50px)
+}
+/* #signup-header{
+    height:50px;
+    padding:5px;
+    text-align: center;
+    background-color:#fa744f;
+    margin-bottom:2px;
+    border-top:2px solid white;
+    border-bottom:2px solid white;
+} */
+.navbar{
+    background-color: #fa744f;
+    margin-bottom:2px;
+    padding: 0px;
+    border-bottom:2px solid white;
+    padding:3px 0px;
+}
+.navbar-nav{
+    margin-right:30px;
+    margin-left:30px;
+    font-weight: bold;
+    color: black;
+}
+.nav-link{
+    color: black;
+    font-size: medium;
+}
+.nav-link:hover{
+    color:white;
+    transition: .5s;
+}
+#sign-reg{
+    padding:20px;
+    background-color: #02a8a8;
+    color:white;
+}
+a{
+    color:#024249;
+}
+a:hover{
+    color:white;
+    text-decoration:none;
+}
+label{
+    font-weight: bold;
+}
+.btn{
+    border-radius: 50px;
+    border:2px solid;
+    border-color:black;
+    color:Black;
+}
+.btn:hover{
+    color:#D1F5D3;
+    background:#07031a;
+    border-color: #D1F5D3;
+}
+#emailHelp{
+    text-decoration-color: white;
+}
+#last{
+    text-align:center;
+}
+input{
+    border-radius: 5px;
+}
+#footer{
+    min-height:50px;
+    text-align:center;
+    background-color:#024249;
+}
+#p{
+    color:#D1F5D3;
+}
+.last-a{
+    color:white;
+}
+.last-a:hover{
+    color:#e8505b;
+}

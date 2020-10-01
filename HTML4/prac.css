@@ -1,0 +1,22 @@
+#main{
+    background-color: black;
+    color:white;
+    border:2px solid red;
+    height:500px;
+}
+.row1{
+    color:black;
+    height:240px;
+}
+.row2{
+    background-color: brown;
+    height:240px;
+}
+.col1{
+    border: 2px solid blue;
+    height:200px;
+    background-color: aqua
+}
+.col2{
+    border:2px solid green
+}
